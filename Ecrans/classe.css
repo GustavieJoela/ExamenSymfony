@@ -1,0 +1,23 @@
+.header {
+    width: 120%;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    background: #C4C4C4;
+}
+
+.background {
+    background: #DAA520;
+}
+
+.jauneT {
+    color: #FFA500;
+}
+
+.jauneB {
+    background: #FFA500;
+}
+
+.bgSecondary {
+    background-color: #C4C4C4;
+}
